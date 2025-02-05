@@ -4,7 +4,8 @@
 - Automatically selects all child terms when a parent is selected.  
 - Automatically deselects all child terms when a parent is unchecked.  
 - Automatically selects parent and grandparent terms when a child is selected.  
-- Works for multiple taxonomies (e.g., "occasions" and "locations").  
+- Works for multiple taxonomies (e.g., "occasions" and "locations").
+- NOTE - This only seems to work on custom taxonomies. I also made the taxonomies with metabox and hasnt been tested with others
 
 ## 🔹 Why This is Useful  
 - Saves time when assigning categories or locations.  
